@@ -18,9 +18,9 @@ Datasets used : data_orders, being stored in a CSV format. The data_orders data 
 
 ```order_status_key``` - status, an enumeration consisting of the following mapping:
 
-```4``` - cancelled by client,
+  - ```4``` - cancelled by client,
 
-```9``` - cancelled by system, i.e., a reject
+  - ```9``` - cancelled by system, i.e., a reject
 
 ```is_driver_assigned_key``` - whether a driver has been assigned
 
